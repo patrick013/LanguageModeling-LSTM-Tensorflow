@@ -1,0 +1,14 @@
+
+
+Source Folder:
+	training_checkpoints: pre-trianed model,
+	train.py: train code,
+	test.py: predict next word code.
+
+
+Run train.py and test.py 
+	1. Use python IDE;
+	2. Use cmd:ptyhon xxx.py 
+	   PS: on linux, ImportException Error might be thrown
+		
+
